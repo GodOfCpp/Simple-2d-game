@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1652001708 source:c:\users\admin\desktop\summerpractice\summerpracticesfml\main.cpp
+	"Includes.hpp"
+
+1649345359 c:\users\admin\desktop\summerpractice\summerpracticesfml\world.hpp
+	"Includes.hpp"
+
+1652000783 c:\users\admin\desktop\summerpractice\summerpracticesfml\includes.hpp
+	<iostream>
+	<string>
+	<vector>
+	<conio.h>
+	<thread>
+	<chrono>
+	<time.h>
+	"SFML/Graphics.hpp"
+	<windows.h>
+	"World.hpp"
+	"Map.hpp"
+	"Player.hpp"
+	"Menu.hpp"
+	"Objects.hpp"
+
+1651999025 c:\users\admin\desktop\summerpractice\summerpracticesfml\player.hpp
+	"Includes.hpp"
+
+1651998720 c:\users\admin\desktop\summerpractice\summerpracticesfml\map.hpp
+	"Includes.hpp"
+
+1651053254 c:\users\admin\desktop\summerpractice\summerpracticesfml\menu.hpp
+	"Includes.hpp"
+
+1651051831 c:\users\admin\desktop\summerpractice\summerpracticesfml\level.h
+	<string>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<iostream>
+	"TinyXML/tinyxml.h"
+
+1651052436 source:c:\users\admin\desktop\summerpractice\summerpracticesfml\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1651052980 c:\users\admin\desktop\summerpractice\summerpracticesfml\tinyxml2.h
+	<cstring>
+	<cassert>
+	<string>
+	<iostream>
+	<sstream>
+	<assert.h>
+	<string.h>
+	"ticpprc.h"
+
+1652001087 c:\users\admin\desktop\summerpractice\summerpracticesfml\objects.hpp
+	"Includes.hpp"
+
+1652001708 source:c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\main.cpp
+	"Includes.hpp"
+
+1652000783 c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\includes.hpp
+	<iostream>
+	<string>
+	<vector>
+	<conio.h>
+	<thread>
+	<chrono>
+	<time.h>
+	"SFML/Graphics.hpp"
+	<windows.h>
+	"World.hpp"
+	"Map.hpp"
+	"Player.hpp"
+	"Menu.hpp"
+	"Objects.hpp"
+
+1649345359 c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\world.hpp
+	"Includes.hpp"
+
+1651998720 c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\map.hpp
+	"Includes.hpp"
+
+1651999025 c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\player.hpp
+	"Includes.hpp"
+
+1651053254 c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\menu.hpp
+	"Includes.hpp"
+
+1652001087 c:\users\admin\desktop\Хлам 2\универ\summerpractice\summerpracticesfml\objects.hpp
+	"Includes.hpp"
+
